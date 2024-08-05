@@ -5,13 +5,11 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné, toujours e
 
 ## Mes statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=mbido&show_icons=true&theme=radical)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR&layout=compact&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=mbidoR&layout=compact&theme=radical)
 
 ## Contact
 N'hésitez pas à me contacter pour toute collaboration ou question !
 
-- Email : votre.email@exemple.com
-- LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/votre-profil/)
-- Twitter : [@VotreTwitter](https://twitter.com/VotreTwitter)
+- Email : contact@mbido.fr
