@@ -32,3 +32,4 @@ jobs:
         with:
           commit_message: Update badges
           file_pattern: README.md
+          token : ${{ secrets.GH_TOKEN }}
