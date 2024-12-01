@@ -12,7 +12,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2                # clones your repo
+      - uses: actions/checkout@v2   
+        with:
+          token: ${{ secrets.GH_TOKEN }}             
           
       - uses: joblo2213/aoc-badges-action@v3
         with:
@@ -32,4 +34,3 @@ jobs:
         with:
           commit_message: Update badges
           file_pattern: README.md
-          token : ${{ secrets.GH_TOKEN }}
