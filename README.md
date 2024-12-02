@@ -3,4 +3,4 @@
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=mbido&layout=compact&theme=radical)
 
-![Statistiques AOC](https://aoc-stats.vercel.app/api/card?username=mbido&totalStars=104&currentYearStars=4&currentDay=2&completedDays=2&currentYear=2023)
+![Statistiques AOC](https://aoc-stats.vercel.app/api/card?username=mbido&totalStars=104&currentYearStars=4&currentDay=2&completedDays=2&currentYear=2024)
