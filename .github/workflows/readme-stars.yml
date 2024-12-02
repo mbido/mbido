@@ -18,9 +18,9 @@ jobs:
         with:
           userid: 3230470
           session: ${{ secrets.AOC_SESSION }}                                                                           # The file that contains the badges
-          dayRegex: '(?<=https:\/\/img\.shields\.io\/badge\/day%20📅-)[0-9]+(?=-blue)'                   # Regular expression that finds the content of the day badge in your file.
-          starsRegex: '(?<=https:\/\/img\.shields\.io\/badge\/stars%20⭐-)[0-9]+(?=-yellow)'             # Regular expression that finds the content of the stars badge in your file.
-          daysCompletedRegex: '(?<=https:\/\/img\.shields\.io\/badge\/days%20completed-)[0-9]+(?=-red)'  # Regular expression that finds the content of the days completed badge iun your file.
+          dayRegex: '(?<=https:\/\/aoc-stats\.vercel\.app\/api\/card\?username=mbido&totalStars=)[0-9]+(?=&currentYearStars=)'                   # Regular expression that finds the content of the day badge in your file.
+          starsRegex: '(?<=&currentYearStars=)[0-9]+(?=&currentDay=)'             # Regular expression that finds the content of the stars badge in your file.
+          daysCompletedRegex: '(?<=&completedDays=)[0-9]+(?=&currentYear=)'  # Regular expression that finds the content of the days completed badge in your file.
 
       - name: Configure Git pour le push
         run: |
