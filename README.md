@@ -4,9 +4,3 @@
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=mbido&layout=compact&theme=radical)
 
 ![Statistiques AOC](https://aoc-stats.vercel.app/api/card?username=mbido&totalStars=104&currentYearStars=4&currentDay=2&completedDays=2&currentYear=2024)
-
-## Advent of Code
-![](https://img.shields.io/badge/day%20📅-2-blue)
-![](https://img.shields.io/badge/stars%20⭐-4-yellow)
-![](https://img.shields.io/badge/days%20completed-2-red)
-
