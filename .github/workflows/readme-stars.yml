@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '6 5 1-25 12 *'
   workflow_dispatch:
+  push:
 
 permissions:
   contents: write  # Accordez les permissions d'écriture
